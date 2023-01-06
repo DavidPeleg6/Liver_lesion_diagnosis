@@ -1,6 +1,7 @@
 # Sheba_Liver_Fat
 Project with Sheba medical center on AI for Ultrasound Images for Liver Fat patients 
-![image](https://github.com/intel-sandbox/Sheba_Liver_Fat/assets/50952358/6b1714d6-84ae-4e97-847f-c853599f2c5e)
+![198590231-6b1714d6-84ae-4e97-847f-c853599f2c5e](https://user-images.githubusercontent.com/26568166/211051446-6d90621a-db8b-42d2-84c6-a6edbda2e10e.png)
+
 
 
 # Project Golas
@@ -20,7 +21,9 @@ Project with Sheba medical center on AI for Ultrasound Images for Liver Fat pati
   - It allows the interrogation of the tissue by acoustic radiation force impulses induced into the tissues by focused ultrasonic beams and captures the propagation of resulting shear waves in real time. 
   - Elasticity is displayed using a color-coded image superimposed on a B-mode image, and at the same time, a quantitative estimation of liver stiffness (LS) can be performed in a certain region of interest (ROI)
   - Multiple samples may increase the accuracy of the classification by examining more ROIs
-![image](https://github.com/intel-sandbox/Sheba_Liver_Fat/assets/50952358/995cbeed-2bbd-41db-bddd-dba17fe67591)
+![198589967-6564c4e5-5197-48f7-a6ec-2813eaafc447](https://user-images.githubusercontent.com/26568166/211051475-58826e5f-a261-4735-aa1f-818310e676fe.png)
+
  
-![image](https://github.com/intel-sandbox/Sheba_Liver_Fat/assets/50952358/6564c4e5-5197-48f7-a6ec-2813eaafc447)
+
+![198590076-995cbeed-2bbd-41db-bddd-dba17fe67591](https://user-images.githubusercontent.com/26568166/211051494-ee264f20-e212-4004-b9a6-fe30f0186b9b.png)
 
